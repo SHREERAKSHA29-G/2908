@@ -1,0 +1,25 @@
+<html>
+<body>
+	<p style="text-color:blue;background-color:yellow;">
+	This is a simple paragraph.
+	</p>
+<<<<<<< HEAD
+	<h1 style="background-color:green;padding:20px;>
+		Inline css with h1 heading.
+	</h1>
+	<h2 style="margin:20px;text-align:center;">
+	This is a heading.
+	</h2>
+=======
+	<h2 style="margin:20px;text-align:center;">
+	This is a heading.
+	</h2>
+	<h1 style="color:pink;text-align:center;">
+		This is a heading with some styles.
+	</h1>
+
+		
+>>>>>>> live
+
+</body>
+</html>
